@@ -1,7 +1,2 @@
-- Hey, I’m Charan (@vadrech) and I'm a Second-year (penultimate) Computer Science BSc student at University College London (UCL).
+- Hey, I’m Charan (@vadrech) and I'm a third-year (final) Computer Science BSc student at University College London (UCL).
 - You can reach me on Linkedin :) (https://www.linkedin.com/in/charanvadrevu/)
-
-<!---
-vadrech/vadrech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
