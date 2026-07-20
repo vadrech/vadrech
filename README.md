@@ -1,2 +1,1 @@
-- Hey, I’m Charan (@vadrech) and I'm a third-year (final) Computer Science BSc student at University College London (UCL).
-- You can reach me on Linkedin :) (https://www.linkedin.com/in/charanvadrevu/)
+
